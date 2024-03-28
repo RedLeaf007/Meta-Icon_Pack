@@ -1184,6 +1184,7 @@
     <item component="ComponentInfo{114514}" drawable="comhuaermooc" />
     <item component="ComponentInfo{114514}" drawable="comhuanmengzhanjian2" />
     <item component="ComponentInfo{114514}" drawable="comhuaweiadochongqing" />
+    <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="comhuaweiappmarket" />
     <item
         component="ComponentInfo{114514}"
         drawable="comhuaweigenexcloudspeedtest" />
@@ -1542,7 +1543,7 @@
         component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.business.login.LoadingPageActivity}"
         drawable="comlemonfaceu" />
     <item
-        component="ComponentInfo{com.lemon.lv/com.vega.launcher.precondition.PreInstallConfirmActivity}"
+        component="ComponentInfo{com.lemon.lv/com.vega.main.MainActivity}"
         drawable="comlemonlv" />
     <item
         component="ComponentInfo{com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity}"
@@ -2519,9 +2520,6 @@
         component="ComponentInfo{com.tencent.map/com.tencent.map.WelcomeActivity}"
         drawable="comtencentmap" />
     <item
-        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
-        drawable="comtencentmm" />
-    <item
         component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}"
         drawable="comtencentmobileqq" />
     <item
@@ -3137,7 +3135,7 @@
         component="ComponentInfo{com.zjy.ykt/com.zjy.ykt.SplashActivity}"
         drawable="comzjyykt" />
     <item
-        component="ComponentInfo{114514}"
+        component="ComponentInfo{com.zmzx.college.search/com.zmzx.college.search.activity.init.InitActivity}"
         drawable="comzmzxcollegesearch" />
     <item
         component="ComponentInfo{com.znxh.hyhuo/com.znxh.hyhuo.activity.WelcomeActivity}"

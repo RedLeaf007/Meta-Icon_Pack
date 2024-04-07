@@ -263,6 +263,9 @@
         component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.login.StartActivity}"
         drawable="comablewisdomtree" />
     <item
+        component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.jpush.OutLineActivity}"
+        drawable="comablewisdomtree" />
+    <item
         component="ComponentInfo{com.achievo.vipshop/com.achievo.vipshop.activity.LodingActivity}"
         drawable="comachievovipshop" />
     <item
@@ -576,6 +579,9 @@
     <item
         component="ComponentInfo{com.bankcomm.maidanba/com.bankcomm.maidanba.activity.SplashActivity}"
         drawable="combankcommmaidanba" />
+    <item
+        component="ComponentInfo{com.bbk.appstore/com.bbk.appstore.ui.AppStore}"
+        drawable="combbkappstore" />
 
     <item component="ComponentInfo{114514}" drawable="combdjvortexdroid" />
     <item
@@ -722,6 +728,9 @@
     <item
         component="ComponentInfo{com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity}"
         drawable="comcmcccmvideo" />
+    <item 
+        component="ComponentInfo{com.cmcc.hebao/com.cmcc.wallet.LoadingActivity}"
+        drawable="comcmcchebao" />
     <item
         component="ComponentInfo{com.cmri.universalapp/com.cmri.universalapp.splash.activity.SplashActivity}"
         drawable="comcmriuniversalapp" />
@@ -904,6 +913,9 @@
         component="ComponentInfo{com.ecitic.bank.mobile/com.ecitic.bank.mobile.ui.SplashActivity}"
         drawable="comeciticbankmobile" />
     <item
+        component="ComponentInfo{com.edifier.edifierconnect/com.edifier.edifierconnect.StartPageNewActivity}"
+        drawable="comedifieredifierconnect" />
+    <item
         component="ComponentInfo{114514}"
         drawable="comedlplanbeatmapservice" />
     <item
@@ -985,7 +997,11 @@
     <item
         component="ComponentInfo{com.farplace.qingzhuo/com.farplace.qingzhuo.views.MainActivity}"
         drawable="comfarplaceqingzhuo" />
-    <item component="ComponentInfo{114514}" drawable="comfenbiandroidleo" />
+    <item
+        component="ComponentInfo{com.feeyo.vz.pro.cdm/com.feeyo.vz.pro.activity.cdm.WelcomeActivity}"
+        drawable="comfeeyovzprocdm" />
+    <item component="ComponentInfo{114514}"
+        drawable="comfenbiandroidleo" />
     <item
         component="ComponentInfo{114514}"
         drawable="comfenbiandroidleo" />
@@ -1057,6 +1073,9 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comgaotu100superclass" />
+    <item
+        component="ComponentInfo{com.gbcom.gwifi.school/com.gbcom.gwifi.functions.loading.LaunchActivity}"
+        drawable="comgbcomgwifischool" />
     <item
         component="ComponentInfo{com.gh.gamecenter/com.gh.gamecenter.SplashScreenActivity}"
         drawable="comghgamecenter" />
@@ -1164,6 +1183,9 @@
     <item component="ComponentInfo{114514}" drawable="comhicorenationalantifraud" />
     <item component="ComponentInfo{114514}" drawable="comhihanhanone" />
     <item
+        component="ComponentInfo{com.hikistor.histor/com.hikistor.histor.ui.activities.HSWelcomeActivity}"
+        drawable="comhikistorhistor" />
+    <item
         component="ComponentInfo{com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity}"
         drawable="comhippoehviewer" />
     <item
@@ -1184,7 +1206,8 @@
     <item component="ComponentInfo{114514}" drawable="comhuaermooc" />
     <item component="ComponentInfo{114514}" drawable="comhuanmengzhanjian2" />
     <item component="ComponentInfo{114514}" drawable="comhuaweiadochongqing" />
-    <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="comhuaweiappmarket" />
+    <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}"
+        drawable="comhuaweiappmarket" />
     <item
         component="ComponentInfo{114514}"
         drawable="comhuaweigenexcloudspeedtest" />
@@ -1239,7 +1262,7 @@
     <item component="ComponentInfo{114514}" drawable="comhypergrypharknightsbilibili" />
     <item component="ComponentInfo{114514}" drawable="comhywwwisdomtree" />
     <item
-        component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}"
+        component="ComponentInfo{com.icbc/com.icbc.activity.init.NewLoadingActivity}"
         drawable="comicbc" />
     <item
         component="ComponentInfo{com.icbc.elife/com.icbc.elife.LoadingActivity}"
@@ -1663,6 +1686,9 @@
     <item
         component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.ui.SplashActivity}"
         drawable="commihoyohyperion" />
+    <item
+        component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.splash.SplashActivity}"
+        drawable="commihoyohyperion" />
     <item component="ComponentInfo{114514}" drawable="commihoyoysbilibili" />
     <item component="ComponentInfo{114514}" drawable="commihoyoysmi" />
 
@@ -1719,6 +1745,9 @@
         drawable="commobileticket" />
     <item
         component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="commobileticket" />
+    <item
+        component="ComponentInfo{com.MobileTicket/com.MobileTicket.ui.activity.WelcomeGuideActivity}"
         drawable="commobileticket" />
     <item component="ComponentInfo{114514}" drawable="commodosaapkinstaller" />
     <item
@@ -2170,7 +2199,7 @@
         component="ComponentInfo{com.screeclibinvoke/com.screeclibinvoke.component.activity.AppStartActivity}"
         drawable="comscreeclibinvoke" />
     <item
-        component="ComponentInfo{114514}"
+        component="ComponentInfo{com.sdjictec.qdmetro/com.sdjictec.qdmetro.module.start.StartActivity}"
         drawable="comsdjictecqdmetro" />
     <item
         component="ComponentInfo{114514}"
@@ -2416,6 +2445,9 @@
         component="ComponentInfo{com.sunshine.freeform/com.sunshine.freeform.activity.splash.SplashActivity}"
         drawable="comsunshinefreeform" />
     <item
+        component="ComponentInfo{com.sunshine.freeform/com.sunshine.freeform.ui.main.MainActivity}"
+        drawable="comsunshinefreeform" />
+    <item
         component="ComponentInfo{com.sup.android.superb/com.sup.android.superb.SplashActivity}"
         drawable="comsupandroidsuperb" />
     <item component="ComponentInfo{114514}" drawable="comsupercellclashofclansuc" />
@@ -2640,8 +2672,14 @@
         component="ComponentInfo{com.tencent.weread/com.tencent.weread.LauncherActivity}"
         drawable="comtencentweread" />
     <item
+        component="ComponentInfo{com.tencent.wetype/com.tencent.wetype.plugin.hld.reactnative.activity.ImeMainSettingActivity}"
+        drawable="comtencentwetype" />
+    <item
         component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.WwMainActivity}"
         drawable="comtencentwework" />
+    <item
+        component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.LaunchSplashEduActivity}"
+        drawable="comtencentweworklaunchlaunchsplasheduactivity" />
     <item
         component="ComponentInfo{com.tencent.wifimanager/com.tencent.wifimanager.MainActivity}"
         drawable="comtencentwifimanager" />
@@ -2943,6 +2981,9 @@
         drawable="comximalayatingandroid" />
     <item
         component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.activity.SplashActivity}"
+        drawable="comxinginxhs" />
+    <item
+        component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}"
         drawable="comxinginxhs" />
     <item
         component="ComponentInfo{com.xinhang.mobileclient/com.xinhang.mobileclient.LoadingActivity}"

@@ -13,7 +13,6 @@
     <item drawable="airtvdouyuandroid" />
     <item drawable="aizuoyeapp" />
     <item drawable="allparttimeguidesystem" />
-    <item drawable="alookbrowser" />
     <item drawable="alpineterm" />
     <item drawable="androidzhibo8" />
     <item drawable="anpeicomanpei" />
@@ -22,19 +21,15 @@
     <item drawable="appelevencomfastfiletransfer" />
     <item drawable="appgreyshirtssslcapture" />
     <item drawable="applandroplandropflutter" />
-    <item drawable="baltixposedpixelifygooglephotos" />
     <item drawable="bfsgshdexp" />
     <item drawable="bosconsoarimagestitch" />
     <item drawable="bubeitingshu" />
     <item drawable="bubeitingshupro" />
-    <item drawable="by4asetedit22" />
     <item drawable="catchmeifyoucan" />
     <item drawable="cccnuswiftcnu" />
     <item drawable="ccdingnetyunfangp" />
     <item drawable="ccseptnetscholar" />
     <item drawable="cctopopgacha" />
-    <item drawable="ceuilisapixiv" />
-    <item drawable="chilixposedchimi" />
     <item drawable="chuxinshimoshimowendang" />
     <item drawable="cmbpb" />
     <item drawable="cmccwmmobilemusic" />
@@ -145,23 +140,9 @@
     <item drawable="comamazfitwatchfacesst" />
     <item drawable="comandroidalexzwhfiledownloaddemo" />
     <item drawable="comandroidbankabc" />
-    <item drawable="comandroidbrowser" />
-    <item drawable="comandroidcalculator2" />
-    <item drawable="comandroidcalendar" />
-    <item drawable="comandroidcamera" />
-    <item drawable="comandroidcontacts" />
     <item drawable="comandroiddazhihui" />
-    <item drawable="comandroidesk" />
     <item drawable="comandroidicredit" />
-    <item drawable="comandroidpcmode" />
-    <item drawable="comandroidproviderscontacts" />
-    <item drawable="comandroidprovidersdownloads" />
-    <item drawable="comandroidprovidersdownloadsui" />
-    <item drawable="comandroidsettings" />
-    <item drawable="comandroidsoundrecorder" />
     <item drawable="comandroidstk" />
-    <item drawable="comandroidupdater" />
-    <item drawable="comandroidvendingassetbrowseractivity" />
     <item drawable="comandromedaandrobench2" />
     <item drawable="comandylauycme" />
     <item drawable="comanjukeandroid" />
@@ -171,8 +152,6 @@
     <item drawable="comapkpureaegon" />
     <item drawable="comapowersoftbackgrounderaser" />
     <item drawable="comappbymeapp284211" />
-    <item drawable="comappleandroidmusic" />
-    <item drawable="comappletrackerdetect" />
     <item drawable="comapplicationlimits" />
     <item drawable="comapplicationzomato" />
     <item drawable="comappmind" />
@@ -249,7 +228,6 @@
     <item drawable="combysykpalette" />
     <item drawable="combyteofweatherwy" />
     <item drawable="combytxmtbanyuetan" />
-    <item drawable="comcaictxingchengka" />
     <item drawable="comcaijing" />
     <item drawable="comcainiaowireless" />
     <item drawable="comcampmobilesnowcamera" />
@@ -397,7 +375,6 @@
     <item drawable="comedifieredifierconnect" />
     <item drawable="comedlplanbeatmapservice" />
     <item drawable="comeebbkparentalcontrol" />
-    <item drawable="comegandroidalipaygphone" />
     <item drawable="comekeguanjiaoshipai" />
     <item drawable="comelonghotelui" />
     <item drawable="comelpatrixfouo" />
@@ -578,7 +555,6 @@
     <item drawable="comhudunandroidimageocr" />
     <item drawable="comhudunandroidpdfchanger" />
     <item drawable="comhuiiantiming" />
-    <item drawable="comhuluplus" />
     <item drawable="comhuluxiagametools" />
     <item drawable="comhunantvimgoactivity" />
     <item drawable="comhundsunmobilehsbrowsertest" />
@@ -1157,7 +1133,6 @@
     <item drawable="comsinaweibolite" />
     <item drawable="comsingclient" />
     <item drawable="comsinosoftcsplatform" />
-    <item drawable="comsinovatechunicomui" />
     <item drawable="comsinyeebabybusrecommendapp" />
     <item drawable="comsisishishuoxinyu" />
     <item drawable="comsixyinwuyinapp" />
@@ -1772,7 +1747,6 @@
     <item drawable="tvdanmakubilibilihd" />
     <item drawable="tvomofunapp" />
     <item drawable="tvppsmobile" />
-    <item drawable="tvtwitchandroidapp" />
     <item drawable="tvyixiabobo" />
     <item drawable="tzxmshfwzcomshtz" />
     <item drawable="usmathlabandroidcalcedu" />
@@ -1799,8 +1773,6 @@
 
     <category title="热门" />
     <item drawable="comtencentmobileqq" />
-    <item drawable="comtencentmm" />
-    <item drawable="comegandroidalipaygphone" />
     <item drawable="tvdanmakubili" />
 
     <category title="购物" />
